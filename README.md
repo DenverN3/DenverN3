@@ -99,12 +99,18 @@ research_focus = {
     "primary": [
         "RNA-seq analysis and transcriptomics",
         "Machine learning applications in biology",
-        "Multi-omics data integration"
+        "Multi-omics data integration",
+        "Clinical trial data analysis",
+        "Biomarker discovery",
+        "Regulatory bioinformatics"
     ],
     "emerging": [
         "Graph neural networks for biological networks",
         "Single-cell omics analysis",
-        "Computational drug discovery"
+        "Computational drug discovery",
+        "Real-world evidence analysis",
+        "Digital therapeutics",
+        "Precision medicine algorithms"
     ],
     "methodologies": [
         "Differential expression analysis",
@@ -120,19 +126,19 @@ research_focus = {
 
 - 🔬 **Research**: Developing GNN models for bacterial growth prediction
 - 📚 **Education**: Creating comprehensive bioinformatics tutorials
-- 🤝 **Collaboration**: Open to research partnerships and consulting
+- 🤝 **Collaboration**: Open to new roles, partnerships and consulting
 - 🌟 **Open Source**: Contributing to bioinformatics tool development
 
 ## 📝 Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This will be automatically updated by GitHub Actions -->
+<!-- Identification of biomarkers associated with survival in colorectal cancer -->
 <!--END_SECTION:activity-->
 
 ## 🤝 Let's Connect!
 
 I'm always interested in discussing:
-- **Collaborative research** opportunities
+- **Collaborative research, new roles** opportunities
 - **Bioinformatics consulting** projects  
 - **Educational initiatives** in computational biology
 - **Open source contributions** to the community
@@ -140,7 +146,7 @@ I'm always interested in discussing:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denver-ncube-n3d/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denver.ncube@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://denvern3.github.io)
 
 </div>
